@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as described below."
+title: "Physics-Informed XAI Framework for Real-Time Multi-Fuel Characterization"
+type: software
+version: 1.0.0
+date-released: 2026-02-03
+license: MIT
+repository-code: "https://github.com/<GITHUB_USERNAME>/physics-informed-xai-fuel-spectroscopy"
+
+authors:
+  - family-names: "Cakir"
+    given-names: "Mustafa"
+    affiliation: "Affiliation to be added"
+    orcid: "https://orcid.org/0000-0002-1794-9242"
+
+keywords:
+  - Explainable Artificial Intelligence
+  - Physics-informed modeling
+  - Spectroscopy
+  - Fuel characterization
+  - Shiny
+
+abstract: >
+  This software provides a Shiny-based, physics-informed explainable artificial
+  intelligence framework for real-time spectral characterization and transparent
+  classification of gasoline and diesel fuels. The framework integrates
+  physics-derived spectral features with interpretable machine learning models,
+  enabling both global and local explainability of fuel classification decisions.
